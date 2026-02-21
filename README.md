@@ -7,7 +7,7 @@ This is a Scoop bucket for installing [Kite](https://github.com/tristan852/kite)
 First, add this bucket:
 
 ```powershell
-scoop bucket add tristan852 https://github.com/tristan852/scoop-bucket
+scoop bucket add kite https://github.com/tristan852/kite-scoop
 ````
 
 Then install Kite:
