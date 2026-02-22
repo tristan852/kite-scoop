@@ -1,12 +1,12 @@
 {
-  "version": "1.17.1",
+  "version": "1.18.1",
   "description": "Kite CLI is a lightweight command-line tool for solving Connect Four positions. It allows users to analyze boards, find optimal moves, and play against bots of varying skill levels. Features include fast computation, optimal moves, multiple skill levels, and interactive gameplay.",
   "tags": [ "connect4", "connect-four", "solver", "cli", "command-line", "game", "puzzle", "board-game", "ai" ],
   
   "homepage": "https://github.com/tristan852/kite",
   "license": "GPL-3.0",
   
-  "url": "https://github.com/tristan852/kite/releases/download/v1.17.1/kite-1.17.1-windows-x64.zip",
+  "url": "https://github.com/tristan852/kite/releases/download/v1.18.1/kite-1.18.1-windows-x64.zip",
   "bin": "kite.exe",
-  "hash": "D9F7B6F19A908E093D146D25FBEBB1C3D8504C9CF15A2EF79096E701211AFBE9"
+  "hash": "927C5C30B831D4C0BA59973DBB6A4EAD010668F748C96A402A945EBF7D46A8BB"
 }
